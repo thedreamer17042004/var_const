@@ -56,7 +56,7 @@
 
 		echo '<br />';
 
-		$year = date('d-m-Y h:m:i');
+		$year = date('d-m-Y');
 
 		echo $year;
 	 ?>
